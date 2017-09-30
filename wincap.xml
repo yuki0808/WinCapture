@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wincap>
+    <outputdir></outputdir>
+    <filename></filename>
+    <sheetname></sheetname>
+    <numcap>3</numcap>
+    <space>2</space>
+    <startrow>1</startrow>
+    <startcolumn>1</startcolumn>
+</wincap>
